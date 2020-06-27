@@ -1,0 +1,36 @@
+.divPeriodos{
+  display: flex;
+  flex-wrap: wrap;   
+}
+
+.divPeriodo{
+  width: 110px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;  
+  border: 1px solid #dd5522;
+  padding: 5px;    
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.divPeriodo h1{  
+  font-size: 1rem;
+  display: flex;    
+  align-items: center;     
+}
+
+.divPositivo p:nth-child(-n + 2){ 
+  color: green;
+}
+
+.divPositivo p:nth-child(3){ 
+  color: blue;
+  font-size: 1.2rem;
+}
+
+.divNegativo{
+  color:red;
+  font-weight: bold;
+}

@@ -1,0 +1,17 @@
+.inputTax{
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;   
+  padding: 10px;  
+  
+}
+.inputTax input{
+  border: 0px none;
+  border-bottom: 1px solid #979494;
+  line-height: 32px;
+  background: transparent;
+}
+
+.inputTax input:focus{  
+  border-bottom: 1px solid #dd5522; 
+}
