@@ -1,10 +1,13 @@
 .divPeriodos{
   display: flex;
   flex-wrap: wrap;   
+  overflow-y: scroll;
+  overflow-x: hidden;
+  max-height:  calc(100vh - 150px);
 }
 
 .divPeriodo{
-  width: 110px;
+  width: 130px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
