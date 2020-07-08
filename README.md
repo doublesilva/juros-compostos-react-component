@@ -4,7 +4,7 @@
   <img src="https://ik.imagekit.io/doublesilva/github-projects/juros-compostos-react_lIjEuKKSj.gif">
 </h1>
 <h3 align="center">
-  <a href="https://juros-compostos.herokuapp.com/">Acesse a aplicação</a>
+  <a href="https://doublesilva-juros-compostos.herokuapp.com/">Acesse a aplicação</a>
 </h3>
 
 ## 📝Sobre
